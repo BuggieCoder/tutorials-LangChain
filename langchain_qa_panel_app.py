@@ -15,7 +15,7 @@ This notebook shows how to make this app:
 </div>
 """
 
-#!pip install langchain openai chromadb tiktoken pypdf panel
+!pip install langchain openai chromadb tiktoken pypdf panel
 
 import os
 from langchain.chains import RetrievalQA
